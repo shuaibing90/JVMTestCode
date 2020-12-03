@@ -1,0 +1,16 @@
+package cn.xysycx.jvm.c1_bytecode;
+
+/**
+ * @Description TODO
+ * @Author Fedeline
+ * @Date 2020/12/3 下午9:56
+ */
+public class T0104_ByteCode04 {
+    int i = 0;
+    String s = "Hello ByteCode!";
+
+    public T0104_ByteCode04(int i, String s) {
+        this.i = i;
+        this.s = s;
+    }
+}
